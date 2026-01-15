@@ -650,7 +650,7 @@ function PurchaseCard() {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
-            className="sticky top-24"
+            className="top-24"
           >
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-br from-rose-200 to-amber-200 rounded-3xl opacity-30 blur-2xl" />
